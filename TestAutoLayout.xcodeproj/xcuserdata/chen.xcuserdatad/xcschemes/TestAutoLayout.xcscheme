@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "74F7FBA11FFD1DE200C853D8"
+               BuildableName = "TestAutoLayout.app"
+               BlueprintName = "TestAutoLayout"
+               ReferencedContainer = "container:TestAutoLayout.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "74F7FBA11FFD1DE200C853D8"
+            BuildableName = "TestAutoLayout.app"
+            BlueprintName = "TestAutoLayout"
+            ReferencedContainer = "container:TestAutoLayout.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
